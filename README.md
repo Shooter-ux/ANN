@@ -1,2 +1,0 @@
-# ANN
-All Practicals
